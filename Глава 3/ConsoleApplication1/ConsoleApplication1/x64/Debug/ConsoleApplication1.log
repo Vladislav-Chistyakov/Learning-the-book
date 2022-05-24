@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,27): warning C4101: sumRight: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,18): warning C4101: sumLeft: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,15): warning C4101: d: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
