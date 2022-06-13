@@ -1,2 +1,8 @@
 ﻿  ConsoleApplication1.cpp
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,15): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,20): warning C4101: max: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,9): warning C4101: b: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,25): warning C4101: min: неиспользованная локальная переменная
+C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,12): warning C4101: c: неиспользованная локальная переменная
   ConsoleApplication1.vcxproj -> C:\Users\chey8\OneDrive\Рабочий стол\C\Русская книга\Глава 4\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
